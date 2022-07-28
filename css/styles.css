@@ -1,0 +1,93 @@
+*{
+    background-color: rgba(238, 238, 238, 0.775);
+}
+
+header{
+    text-align: center;
+    justify-content: center;
+    padding-top: 26px;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    margin: 26px 0px 0px;
+    margin-bottom: 0px;
+
+}
+
+h2{
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: lighter;
+    padding-top: 1px 0px 0px;
+    margin: 16px 0px;
+}
+
+body{
+    text-align: center;
+}
+
+footer{
+    margin: 18px;
+    display: block;
+    font-size: 1.17em;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    padding-bottom: 20px;
+}
+li{
+    margin: 16px 0;
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+}
+
+ul{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+    list-style: disc;
+    font-size: 16px;
+}
+
+.maincontent-footer{
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    font-size: 20px;
+}
+
+.maincontent-footer-text{
+    text-align: left;
+} 
+.maincontent-footer-text2{
+    text-align: left;
+}  
+strong{
+    font-weight: bold;
+    font-size: 15px;
+    font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif  ;
+}
+.maincontent-title{
+    margin: 50px 0;
+}
+
+h3{
+    display: block;
+    font-size: 1.17em;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.5;
+}
+
+.img-caption{
+    margin: 15px 0px 5px;
+}
+.caption{
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
